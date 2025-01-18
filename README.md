@@ -12,8 +12,8 @@
 2.	測試功能的基本操作與互動流程。
 
 ## 測試帳號
-Email: test@gmail.com
-密碼: 123qweASD
+Email: test@gmail.com  
+Password: 123qweASD
 
 ## 更新方式
 1. 建置 Flutter Web  
