@@ -11,6 +11,10 @@
 1.	用於驗證前端設計的響應式排版與適配性。
 2.	測試功能的基本操作與互動流程。
 
+## 測試帳號
+Email: test@gmail.com
+密碼: 123qweASD
+
 ## 更新方式
 1. 建置 Flutter Web  
   在專案(frontend)根目錄執行以下指令，生成 Web 版本：`flutter build web`  
