@@ -19,7 +19,7 @@ Password: 123qweASD
 
 ## 更新方式
 1. 建置 Flutter Web  
-  在專案(frontend)根目錄執行以下指令，生成 Web 版本：`flutter build web`  
+  在專案(frontend)根目錄執行以下指令，生成 Web 版本：`flutter build web -t lib/main_test.dart`  
   建置完成後，輸出的檔案會位於 `build/web` 目錄下。
 
 2. 切換到 gh-pages 分支  
