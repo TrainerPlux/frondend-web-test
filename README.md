@@ -13,9 +13,9 @@
 
 ## 供測試資料
 Email: test@gmail.com  
-Password: 123qweASD
-已存在社群 ID: test
-建立社群邀請碼(Seed code): test
+Password: 123qweASD  
+已存在社群 ID: test  
+建立社群邀請碼(Seed code): test  
 
 ## 更新方式
 1. 建置 Flutter Web  
