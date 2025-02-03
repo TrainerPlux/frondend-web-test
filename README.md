@@ -11,9 +11,11 @@
 1.	用於驗證前端設計的響應式排版與適配性。
 2.	測試功能的基本操作與互動流程。
 
-## 測試帳號
+## 供測試資料
 Email: test@gmail.com  
 Password: 123qweASD
+已存在社群 ID: test
+建立社群邀請碼(Seed code): test
 
 ## 更新方式
 1. 建置 Flutter Web  
