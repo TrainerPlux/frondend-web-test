@@ -1,6 +1,6 @@
 # 描述
 此 Repo使用 GitHub pages功能，用來提供前端透過網頁進行測試與模擬。  
-測試網址：[frondend-web-test](https://trainerplux.github.io/frondend-web-test/)
+測試網址：[frontend-web-test](https://trainerplux.github.io/frontend-web-test/)
 
 此頁面使用 [device_preview](https://pub.dev/packages/device_preview) 來模擬手機畫面。  
 需要注意的是，模擬環境可能無法完全還原真實手機的實際操作效果，例如：  
